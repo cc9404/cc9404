@@ -2,7 +2,7 @@
 
 ![Ethan Chou Banner](./banner.png)
 
-Hello, I'm Ethan. Graduate student in Marketing Analytics at NYU with a strong focus on data-driven customer segmentation, econometric modeling, retention dynamics, and experimentation.
+Hello, I'm Ethan. Graduate student in Integrated Marketing(Marketing Analytics Track) at NYU with a strong focus on data-driven customer segmentation, econometric modeling, retention dynamics, and experimentation.
 
 - **Data Querying & Modeling:** Formulating complex SQL pipelines, cohort retention matrices, and RFM scoring frameworks.
 - **Statistical Analytics & ML:** Applying Python for machine learning clustering (K-Means), market basket association rules, and churn diagnostics.
@@ -28,7 +28,7 @@ Explore my featured data analytics portfolios across e-commerce, customer retent
 
 ### 🛠 Tools & Tech Stack
 
-* **Languages:** SQL (MySQL 8.0), Python (Pandas, NumPy, Scikit-learn, NetworkX), R, SAS
+* **Languages:** SQL (MySQL 8.0), Python (Pandas, NumPy, Scikit-learn, NetworkX), SAS
 * **Databases & Warehouses:** MySQL, Google BigQuery, Google Cloud Platform
 * **Analytics & Visualization:** Looker Studio, Tableau, Jupyter Notebook, PyCharm, Google Analytics 4 (GA4)
 * **Core Competencies:** Cohort Retention Analysis, Customer Lifetime Value (CLTV), A/B Testing, RFM Segmentation, Association Rule Mining
