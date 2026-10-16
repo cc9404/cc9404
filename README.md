@@ -2,7 +2,7 @@
 
 ![Ethan Chou Banner](./banner.png)
 
-Hello, I'm Ethan. Graduate student in Integrated Marketing(Marketing Analytics Track) at NYU with a strong focus on data-driven customer segmentation, econometric modeling, retention dynamics, and experimentation.
+Hello, I'm Ethan. Graduate student in Integrated Marketing (Marketing Analytics) at NYU, specializing in customer segmentation, A/B testing, and retention analysis to drive data-informed growth strategies.
 
 - **Data Querying & Modeling:** Formulating complex SQL pipelines, cohort retention matrices, and RFM scoring frameworks.
 - **Statistical Analytics & ML:** Applying Python for machine learning clustering (K-Means), market basket association rules, and churn diagnostics.
